@@ -34,6 +34,7 @@
 | 5  | May 2026 | GitHub Collaboration and AI Integration       | GitHub, workflow, Lindsay, AI tools           | 🔄 In progress |
 | 6  | May 2026 | AI and CC                                     | AI, CC signals,  CC-BY-SA                     | 🔄 In progress |
 | 7  | May 2026 | Style Guide                                   | CMOS, Google Developer Style Guide style guide| ✅ Done        |
+| 8  | May 2026 | Cool Ideas                                    | proposals, dreams, wishes                     | 🔄 In progress |
 
 *Status key: ✅ Done · 🔄 In progress · 🔲 To review · ⭐ High priority*
 
@@ -115,6 +116,17 @@
 
 ---
 
+### Session 8 — Cool Ideas
+*May 2026*
+
+- Identified the need for two distinct things: a system for community ideation, and a place to capture your own first proposal
+- Chose GitHub /proposals folder as the simple, CC-BY-SA-compatible home for community dreams
+- Established a standard proposal template: idea, mission fit, what it takes, dream outcome
+- Drafted and filed Proposal 001 — Sensor Makerspace co-located with Senior Centers, with a "Makerspace in a Box" replication vision
+- Created README.md with submission instructions for both GitHub users and non-technical members
+
+---
+
 ## 🔲 Open Action Items
 
 - [x] Fill in mission description in Project Instructions
@@ -136,6 +148,9 @@
 - [ ]  **Draft CSC's own data governance principles** — even a one-pager. What can community-generated knowledge be used for? By whom? Under what conditions?
 - [ ]  **Consider applying a CC license to CSC's GitHub repository** — a concrete, low-effort alignment with these values.
 - [ ]  **Add CC Signals to the Resources section of your journal** — this is a living reference worth tracking.
+- [ ]   Upload proposals/README.md and proposals/001-makerspace-senior-centers.md to your csc-foundation GitHub repo
+- [ ]   Create a simple submission form (Tally.so is free and clean) and add the URL to the README
+- [ ]   Add a "Submit an idea →" link on the CSC website pointing to the form
 
 ---
 
