@@ -33,6 +33,7 @@
 | 4  | May 2026 | Founding Board — Profiles and Search          | board, governance, search                     | 🔄 In progress |
 | 5  | May 2026 | GitHub Collaboration and AI Integration       | GitHub, workflow, Lindsay, AI tools           | 🔄 In progress |
 | 6  | May 2026 | AI and CC                                     | AI, CC signals,  CC-BY-SA                     | 🔄 In progress |
+| 7  | May 2026 | Style Guide                                   | CMOS, Google Developer Style Guide style guide| ✅ Done        |
 
 *Status key: ✅ Done · 🔄 In progress · 🔲 To review · ⭐ High priority*
 
