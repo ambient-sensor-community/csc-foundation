@@ -114,7 +114,7 @@
 - [ ] Explore fiscal sponsorship options — Open Collective Foundation as first candidate
 - [ ] Begin identifying founding board members *(continued in next session)*
 - [ ] Find a grant writer with aging-in-place funding landscape experience
-- [ ] Open a GitHub organization for CSC
+- [x] Open a GitHub organization for CSC
 - [ ] Have 10 real conversations with potential collaborators
 - [ ] Create GitHub repository and upload files
 - [ ] Lindsay makes her first pull request
