@@ -116,7 +116,7 @@
 - [ ] Find a grant writer with aging-in-place funding landscape experience
 - [x] Open a GitHub organization for CSC
 - [ ] Have 10 real conversations with potential collaborators
-- [ ] Create GitHub repository and upload files
+- [x] Create GitHub repository and upload files
 - [ ] Lindsay makes her first pull request
 - [ ] Share the site with 10 people before building more
 - [ ] Identify one real pilot family
