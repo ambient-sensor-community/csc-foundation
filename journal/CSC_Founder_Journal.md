@@ -103,6 +103,17 @@
 
 ---
 
+### Session 7 — Style Guide
+*May 2026*
+
+- Adopted CMOS (18th ed.) as primary style authority for all CSC writing; Google Developer Style Guide for technical/GitHub content; CMOS settles conflicts
+- Documented core house decisions: Oxford comma, em dashes, lowercase internet/web/email, person-first language, active voice, plain language
+- Created a one-page Style Notes reference document ready for GitHub
+- Established "homecare" (one word) and "sensor network" (two words) as house spellings
+- Flagged "data is" (singular) and person-first language as intentional choices worth knowing the rationale for
+
+---
+
 ## 🔲 Open Action Items
 
 - [x] Fill in mission description in Project Instructions
