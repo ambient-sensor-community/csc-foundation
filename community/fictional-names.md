@@ -11,6 +11,7 @@ For full details on how names are used and how to add yours, see [fictional-name
 | First name | Last name | Date added | Notes |
 |------------|-----------|------------|-------|
 | Maria      |           | May 2026   | Grandfathered — founding website story |
+| Margaret   |           | May 2026   | Granfathered - founding persona for website dev |
 
 ---
 
