@@ -83,7 +83,7 @@ We use Claude and other AI tools as part of our workflow. Contributions that wer
 
 If you're not sure where to start, or something here doesn't make sense, write to us:
 
-**hello@routinestability.community**
+**caringsensorcommunity@gmail.com**
 
 We'll help you find the right place to contribute.
 
