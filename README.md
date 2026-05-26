@@ -70,7 +70,7 @@ Read [`community/CONTRIBUTING.md`](community/CONTRIBUTING.md) to understand how 
 
 If something here resonates with your experience — as a caregiver, designer, developer, researcher, or family member — we want to hear from you.
 
-**hello@routinestability.community**
+**caringssensorcommunity@gmail.com**
 
 ---
 
