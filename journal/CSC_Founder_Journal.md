@@ -177,8 +177,13 @@
 |          | community-generated knowledge                 | commons; reciprocity ("pay it forward")| 
 |          |                                               | aligns with CSC's core values; signals |
 |          |                                               | trust before words do                  |
-|----------|-----------------------------------------------|----------------------------------------|  
-
+|----------|-----------------------------------------------|----------------------------------------|
+| May 2026 | "Open by default, private when a person's     | Answers the question, "When is         |
+|          | dignity or a relationship's integrity         | discretion and privacy appropriate in  |
+|          | requires it" is guiding CSC principle for     | planning done by the Founder or other  |                                      
+|          | Founder deliberations regarding personnel or  | CSC stakeholders?"                     |
+|          | finance.                                      |                                        |
+|----------|-----------------------------------------------|----------------------------------------|
 ---
 
 ## 📚 Resources & References
