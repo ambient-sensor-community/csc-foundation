@@ -133,7 +133,7 @@
 - [x] Create Claude Project and paste in the instructions
 - [x] Add this document to the Project as a reference file
 - [x] Title and log each new conversation in the Index table
-- [ ] Write the founder story for the About Us page — specifically the Right at Home years
+- [x] Write the founder story for the About Us page — specifically the Right at Home years
 - [ ] Strengthen the call-to-action on the website (beyond a raw email address)
 - [ ] Explore fiscal sponsorship options — Open Collective Foundation as first candidate
 - [ ] Begin identifying founding board members *(continued in next session)*
