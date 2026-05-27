@@ -24,6 +24,8 @@ csc-foundation/
 ├── design/         # Design decisions, prompts, visual direction, brand guidelines
 ├── journal/        # Founder journal — strategy conversations and decisions over time
 └── community/      # Guides for contributors, community norms, onboarding materials
+└── proposals/      # proposals, ideas, dreams
+
 ```
 
 Product code lives in separate repositories. Links will be added here as they are created.
