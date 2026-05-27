@@ -35,6 +35,7 @@
 | 6  | May 2026 | AI and CC                                     | AI, CC signals,  CC-BY-SA                     | 🔄 In progress |
 | 7  | May 2026 | Style Guide                                   | CMOS, Google Developer Style Guide style guide| ✅ Done        |
 | 8  | May 2026 | Cool Ideas                                    | proposals, dreams, wishes                     | 🔄 In progress |
+| 9  | May 2026 | Web Forms and Submission Infrastructure       | web forms                                     | 🔄 In progress |
 
 *Status key: ✅ Done · 🔄 In progress · 🔲 To review · ⭐ High priority*
 
@@ -127,6 +128,16 @@
 
 ---
 
+### Session 9 — Web Forms and Submission Infrastructure
+*May 2026*
+
+- Confirmed that self-hosted forms are premature at CSC's current stage — third-party form services are the right approach now
+- Tally.so reconfirmed as the best fit: free, clean, embeds well, consistent with CSC's design sensibility
+- Established the pattern for linking from GitHub documents: simple markdown link to the Tally form URL
+- Noted Airtable Forms as the natural next step when submissions need to feed into structured tracking (board candidates, pilot families, etc.)
+- Identified the key decision to make now: where do submissions go — email, Google Sheet, or Airtable base
+---
+
 ## 🔲 Open Action Items
 
 - [x] Fill in mission description in Project Instructions
@@ -148,9 +159,11 @@
 - [ ]  **Draft CSC's own data governance principles** — even a one-pager. What can community-generated knowledge be used for? By whom? Under what conditions?
 - [ ]  **Consider applying a CC license to CSC's GitHub repository** — a concrete, low-effort alignment with these values.
 - [ ]  **Add CC Signals to the Resources section of your journal** — this is a living reference worth tracking.
-- [ ]   Upload proposals/README.md and proposals/001-makerspace-senior-centers.md to your csc-foundation GitHub repo
-- [ ]   Create a simple submission form (Tally.so is free and clean) and add the URL to the README
-- [ ]   Add a "Submit an idea →" link on the CSC website pointing to the form
+- [ ]  Upload proposals/README.md and proposals/001-makerspace-senior-centers.md to your csc-foundation GitHub repo
+- [ ]  Create a simple submission form (Tally.so is free and clean) and add the URL to the README
+- [ ]  Add a "Submit an idea →" link on the CSC website pointing to the form
+- [ ]  Set up Tally.so account if not already done
+- [ ]  Decide where form submissions route (email → Google Sheet → Airtable, in order of maturity)
 
 ---
 
