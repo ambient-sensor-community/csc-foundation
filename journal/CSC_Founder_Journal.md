@@ -36,6 +36,7 @@
 | 7  | May 2026 | Style Guide                                   | CMOS, Google Developer Style Guide style guide| ✅ Done        |
 | 8  | May 2026 | Cool Ideas                                    | proposals, dreams, wishes                     | 🔄 In progress |
 | 9  | May 2026 | Web Forms and Submission Infrastructure       | web forms                                     | 🔄 In progress |
+| 10 | May 2026 | GitHub Concerns and the Founder Diary         | Github, Diary                                 | 🔄 In progress |
 
 *Status key: ✅ Done · 🔄 In progress · 🔲 To review · ⭐ High priority*
 
@@ -136,6 +137,18 @@
 - Established the pattern for linking from GitHub documents: simple markdown link to the Tally form URL
 - Noted Airtable Forms as the natural next step when submissions need to feed into structured tracking (board candidates, pilot families, etc.)
 - Identified the key decision to make now: where do submissions go — email, Google Sheet, or Airtable base
+
+---
+
+### Session 10 — GitHub Concerns and the Founder Diary
+*May 2026*
+
+- Confirmed GitHub as foundation, not front door — non-technical community members need a different gathering place; Discourse and Slack identified as candidates to explore
+- Diagnosed "looks good to me" as a politeness response, not validation — the ask was too open-ended for a cold audience
+- Discovered a new pitch approach: the Wikipedia surprise as an opening line, the Cathedral and the Bazaar as the business model story — a narrative that forks naturally depending on the listener
+- Decided to add a diary layer to the existing two-project structure — CSC_Founder_Diary.md for the public narrative thread, a parallel private space in Working Notes
+- Wrote the first two diary entries on May 27, 2026
+
 ---
 
 ## 🔲 Open Action Items
@@ -164,6 +177,11 @@
 - [ ]  Add a "Submit an idea →" link on the CSC website pointing to the form
 - [ ]  Set up Tally.so account if not already done
 - [ ]  Decide where form submissions route (email → Google Sheet → Airtable, in order of maturity)
+- [ ]   Create CSC_Founder_Diary.md in the CSC Founder Journal project
+- [ ]   Add the two May 27 entries as the first diary entries
+- [ ]   Add the diary decision to the Key Decisions Log
+- [ ]   Explore Discourse and Slack as community gathering options
+- [ ]   Try the Wikipedia opening with three more people and note how it forks
 
 ---
 
