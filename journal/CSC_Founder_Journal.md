@@ -171,7 +171,7 @@
 - [ ] **Watch the CC Signals development process** — they're soliciting feedback now. Consider whether CSC should formally engage as a stakeholder representing the home sensing / caregiving domain.
 - [ ]  **Draft CSC's own data governance principles** — even a one-pager. What can community-generated knowledge be used for? By whom? Under what conditions?
 - [ ]  **Consider applying a CC license to CSC's GitHub repository** — a concrete, low-effort alignment with these values.
-- [ ]  **Add CC Signals to the Resources section of your journal** — this is a living reference worth tracking.
+- [x]  **Add CC Signals to the Resources section of your journal** — this is a living reference worth tracking.
 - [ ]  Upload proposals/README.md and proposals/001-makerspace-senior-centers.md to your csc-foundation GitHub repo
 - [ ]  Create a simple submission form (Tally.so is free and clean) and add the URL to the README
 - [ ]  Add a "Submit an idea →" link on the CSC website pointing to the form
