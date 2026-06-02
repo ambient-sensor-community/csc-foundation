@@ -25,18 +25,21 @@
 
 ## 📓 Journal Index
 
-| #  | Date     | Conversation Title                            | Tags                                          | Status         |
-|----|----------|-----------------------------------------------|-----------------------------------------------|----------------|
-| 1  | May 2026 | Project Setup & Journal Structure             | organization, planning                        | ✅ Done        |
-| 2  | May 2026 | Opening Conversation                          | website, founder profile, architecture, legal | ✅ Done        |
-| 3  | May 2026 | Emulating Lawrence Lessig's Presentation Style| presentation, narrative, design               | 🔲 To review   |
-| 4  | May 2026 | Founding Board — Profiles and Search          | board, governance, search                     | 🔄 In progress |
-| 5  | May 2026 | GitHub Collaboration and AI Integration       | GitHub, workflow, Lindsay, AI tools           | 🔄 In progress |
-| 6  | May 2026 | AI and CC                                     | AI, CC signals,  CC-BY-SA                     | 🔄 In progress |
-| 7  | May 2026 | Style Guide                                   | CMOS, Google Developer Style Guide style guide| ✅ Done        |
-| 8  | May 2026 | Cool Ideas                                    | proposals, dreams, wishes                     | 🔄 In progress |
-| 9  | May 2026 | Web Forms and Submission Infrastructure       | web forms                                     | 🔄 In progress |
-| 10 | May 2026 | GitHub Concerns and the Founder Diary         | Github, Diary                                 | 🔄 In progress |
+| #   | Date      | Conversation Title                             | Tags                                           | Status         |     |     |
+| --- | --------- | ---------------------------------------------- | ---------------------------------------------- | -------------- | --- | --- |
+| 1   | May 2026  | Project Setup & Journal Structure              | organization, planning                         | ✅ Done         |     |     |
+| 2   | May 2026  | Opening Conversation                           | website, founder profile, architecture, legal  | ✅ Done         |     |     |
+| 3   | May 2026  | Emulating Lawrence Lessig's Presentation Style | presentation, narrative, design                | 🔲 To review   |     |     |
+| 4   | May 2026  | Founding Board — Profiles and Search           | board, governance, search                      | 🔄 In progress |     |     |
+| 5   | May 2026  | GitHub Collaboration and AI Integration        | GitHub, workflow, Lindsay, AI tools            | 🔄 In progress |     |     |
+| 6   | May 2026  | AI and CC                                      | AI, CC signals,  CC-BY-SA                      | 🔄 In progress |     |     |
+| 7   | May 2026  | Style Guide                                    | CMOS, Google Developer Style Guide style guide | ✅ Done         |     |     |
+| 8   | May 2026  | Cool Ideas                                     | proposals, dreams, wishes                      | 🔄 In progress |     |     |
+| 9   | May 2026  | Web Forms and Submission Infrastructure        | web forms                                      | 🔄 In progress |     |     |
+| 10  | May 2026  | GitHub Concerns and the Founder Diary          | Github, Diary                                  | 🔄 In progress |     |     |
+| 11  | May 2026  | AI Literacy for the CSC Community              | AI Literacy, Community, Governance             | 🔄 In progress |     |     |
+| 12  | May 2026  | Transient Participation & Consent Architecture | Consent                                        | 🔄 In progress |     |     |
+| 13  | June 2026 | Training Session Summary                       | Plus Menu                                      | ✅ Done         |     |     |
 
 *Status key: ✅ Done · 🔄 In progress · 🔲 To review · ⭐ High priority*
 
@@ -149,7 +152,49 @@
 - Decided to add a diary layer to the existing two-project structure — CSC_Founder_Diary.md for the public narrative thread, a parallel private space in Working Notes
 - Wrote the first two diary entries on May 27, 2026
 
----
+--- 
+
+### Session 11 — AI Literacy for the CSC Community
+*May 2026*
+- Opened Session 11 — AI Literacy for the CSC Community
+- Defined the primary learning objective: community members who can write sensor network prompts that observe a pattern, define a trigger, and specify a recommended response
+- Established a three-tier literacy architecture: Orientation, Prompt Literacy Training, and Prompt Library Contribution
+- Designed the CSC Prompt Library Trust Score System — five scores including score 5 as a critical bug flag raiseable at any lifecycle stage
+- Drafted three AI scan criteria: completeness, clarity, and objective clarity
+- Identified the key unresolved question: should the AI scan detect ethically problematic prompts, and if so how — deferred to tomorrow
+- Defined the primary learning objective for the CSC community literacy framework: members who can write sensor network prompts that identify a behavioral pattern, define a trigger condition, and specify a recommended response
+- Established a three-tier literacy architecture: Orientation (video-based, for everyone), Prompt Literacy Training (mastery-gated, 80% pass rate), and Prompt Library Contribution (earned through certification)
+- Affirmed universal prompt authorship as a CSC value — age is not a disqualifier; elders deserve agency, not just care
+- Designed the CSC Prompt Library Trust Score System — five scores, with score 5 as a critical bug flag raiseable at any lifecycle stage, quarantining prompts in the misfit toys folder for rehabilitation rather than deletion
+- Drafted three AI scan criteria for score 2: completeness against the six prompt elements, clarity, and objective clarity
+- Assigned ethical review to score 3 community vetting — ethics requires judgment and context the scan cannot provide; community discussion happens in the talk tab connected to each prompt in the wiki
+- Introduced a reputation system modeled loosely on Slashdot but with a CSC-specific algorithm — transparent, values-driven, weighting lived experience and wisdom alongside contribution volume; McLuhan's warning flagged as a guiding caution
+- Identified the need for a new GitHub folder: `/founding-ideas` — a home for seeds that are load-bearing to what CSC become
+
+--- 
+
+## Session 12 - Founding Idea — Transient Participation & Consent Architecture
+
+- CSC's community includes people whose capacity to participate may fluctuate. Design must account for both exclusion risk and exploitation risk.
+- Distinguish between _objects of the network_ (consent architecture) and _voices in the community_ (governance architecture). These overlap but require separate design.
+- Propose _living consent_ model: point-in-time consent plus a named trusted circle empowered to revisit it, plus open revision whenever the person has capacity. Analogous to advance directives but iterative.
+- Contributions do not expire. Standing does not decay from inactivity alone. The record preserves participation across gaps.
+- Proxy participation model: members may designate a trusted proxy in advance. Proxy may speak for but not over the member's previously expressed positions.
+- Establish a community pathway to pause (not revoke) governance participation when wellbeing concern is flagged — pause is reversible, care is the goal.
+--- 
+
+## Session 13 - **Training Session Summary**
+
+- Completed Session 3.1 — Claude's tools ecosystem
+- Explored the full plus menu: files, GitHub, Skills, Connectors, Plugins, Research, Web search, Use Style
+- Established the distinction between web search and Research mode — targeted lookup versus multi-step synthesis
+- Corrected a key misconception: Google Drive via Connectors is active retrieval on request, not passive shared context
+- Clarified Use Style scope: voice and formatting tool, not content generator
+- Connected tool knowledge to real CSC workflow: OT board candidate meeting preparation as a four-tool exercise
+- Discovered web search has been enabled since day one — citations in past responses were evidence trail, not decoration
+- Quiz result: 6.5/7 — 93% — gate cleared
+
+
 
 ## 🔲 Open Action Items
 
@@ -172,35 +217,56 @@
 - [ ]  **Draft CSC's own data governance principles** — even a one-pager. What can community-generated knowledge be used for? By whom? Under what conditions?
 - [ ]  **Consider applying a CC license to CSC's GitHub repository** — a concrete, low-effort alignment with these values.
 - [x]  **Add CC Signals to the Resources section of your journal** — this is a living reference worth tracking.
-- [ ]  Upload proposals/README.md and proposals/001-makerspace-senior-centers.md to your csc-foundation GitHub repo
+- [x]  Upload proposals/README.md and proposals/001-makerspace-senior-centers.md to your csc-foundation GitHub repo
 - [ ]  Create a simple submission form (Tally.so is free and clean) and add the URL to the README
 - [ ]  Add a "Submit an idea →" link on the CSC website pointing to the form
 - [ ]  Set up Tally.so account if not already done
 - [ ]  Decide where form submissions route (email → Google Sheet → Airtable, in order of maturity)
-- [ ]   Create CSC_Founder_Diary.md in the CSC Founder Journal project
-- [ ]   Add the two May 27 entries as the first diary entries
-- [ ]   Add the diary decision to the Key Decisions Log
+- [x]   Create CSC_Founder_Diary.md in the CSC Founder Journal project
+- [x]   Add the two May 27 entries as the first diary entries
+- [x]   Add the diary decision to the Key Decisions Log
 - [ ]   Explore Discourse and Slack as community gathering options
 - [ ]   Try the Wikipedia opening with three more people and note how it forks
+- [x]  Add Session 11 to Journal Index
+- [x]  Think through the ethics question overnight — should the AI scan be a technical tool, a values instrument, or both?
+- [x]  Return tomorrow to complete the AI scan design and move toward curriculum structure
+- [ ]  Create `/founding-ideas` folder in GitHub repository
+- [ ]  Draft `001-ai-literacy-framework.md`
+- [ ]  Draft `002-prompt-library-trust-system.md`
+- [ ]  Draft `003-reputation-system.md` — flag McLuhan warning prominently in deliberation section
+- [ ]  Add Founding Ideas to GitHub README as a named section
+- [ ]  Return to complete AI scan ethics question — assigned to community vetting but scan criteria may need a values checkpoint added
+- [ ]  Begin designing the community vetting process for score 3
+- [ ]  Begin deliberation on reputation algorithm — what CSC values, how it's weighted, how it's made transparent
+- [ ] Draft a _living consent_ framework as a founding document — distinct from the code of conduct, focused on the objects of the network
+- [ ] Add a proxy participation model to the governance design work
+- [ ] Flag the "transient participation" principle explicitly in community guidelines: contributions don't expire, standing doesn't decay from inactivity alone
+- [ ] Revisit CC licensing session citations — verify still current before acting
+- [ ]  Explore Connectors menu — connect Google Drive to Claude
+- [ ]  Try Research mode on one real CSC question this week
+- [ ]  Add Use Style profile based on Session 7 style guide decisions
+- [ ]  Review fiscal sponsorship session — identify cited versus uncited claims before acting on recommendations
 
 ---
 
 ## 💡 Key Decisions Log
 
-| Date     | Decision                                      | Rationale                              |
-|----------|-----------------------------------------------|----------------------------------------|
-| May 2026 | Adopted Claude Project as founder journal     | Centralized, searchable, AI-assisted   |
-|----------|-----------------------------------------------|----------------------------------------|
-| May 2026 | CC-BY-SA license for CSC Prompt Library and   | Keeps community knowledge in the       |
-|          | community-generated knowledge                 | commons; reciprocity ("pay it forward")| 
-|          |                                               | aligns with CSC's core values; signals |
-|          |                                               | trust before words do                  |
-|----------|-----------------------------------------------|----------------------------------------|
-| May 2026 | "Open by default, private when a person's     | Answers the question, "When is         |
-|          | dignity or a relationship's integrity         | discretion and privacy appropriate in  |
-|          | requires it" is guiding CSC principle for     | planning done by the Founder or other  |                                      
-|          | Founder deliberations regarding personnel or  | CSC stakeholders?"                     |
-|          | finance.                                      |                                        |
+| Date     | Decision                                        | Rationale                               |     |
+| -------- | ----------------------------------------------- | --------------------------------------- | --- |
+| May 2026 | Adopted Claude Project as founder journal       | Centralized, searchable, AI-assisted    |     |
+| May 2026 | CC-BY-SA license for CSC Prompt Library and     | Keeps community knowledge in the        |     |
+|          | community-generated knowledge                   | commons; reciprocity ("pay it forward") |     |
+|          |                                                 | aligns with CSC's core values; signals  |     |
+|          |                                                 | trust before words do                   |     |
+| May 2026 | "Open by default, private when a person's       | Answers the question, "When is          |     |
+|          | dignity or a relationship's integrity           | discretion and privacy appropriate in   |     |
+|          | requires it" is guiding CSC principle for       | planning done by the Founder or other   |     |
+|          | Founder deliberations regarding personnel or    | CSC stakeholders?"                      |     |
+|          | finance.                                        |                                         |     |
+|          |                                                 |                                         |     |
+| May 2026 | Companion document to this journal was created, | A diary is a common record kept by a    |     |
+|          | the founder diary. CSC_Founder_Diary            | founder. This is a journey. I want to   |     |
+|          |                                                 | capture it.                             |     |
 |----------|-----------------------------------------------|----------------------------------------|
 ---
 
