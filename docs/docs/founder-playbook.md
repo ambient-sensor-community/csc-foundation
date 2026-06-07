@@ -31,8 +31,21 @@ Adding, revising, or locating CSC documents in GitHub.
 **Reason:**  
 This prevents multiple competing drafts from circulating and makes it clear which version should be used as the current reference.
 
+**Status:** 
+Personal founder practice.
+
+---
+### Promote useful working assets to canonical draft status
+
+**Practice:**  
+When an asset is the best current version and is useful for real-world review, place it on `main` with `Status: Draft`. Do not wait for perfection. Preserve versioned working copies locally and use a stable filename for the canonical GitHub copy.
+
+**Reason:**  
+A canonical draft gives collaborators a clear current reference while allowing the asset to improve through use and feedback.
+
 **Status:**  
 Personal founder practice.
+
 ---
 
 ## 4. Decision-Making Practices
