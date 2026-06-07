@@ -20,7 +20,20 @@ This prevents useful ideas from disappearing while avoiding the automatic conver
 
 ## 3. GitHub and Knowledge-Base Practices
 
-Use main as the canonical working library. A document on main is the current authoritative version even when its status is Draft. Use document metadata and the decision log to distinguish current drafts from formally accepted policies. Keep exploratory revisions outside main until they are ready to replace the canonical version.
+### Use `main` as the canonical working library
+
+**Practice:**  
+A document on `main` is the current authoritative version, even when its status is `Draft`. Use document metadata and the decision log to distinguish current drafts from formally accepted policies. Keep exploratory revisions outside `main` until they are ready to replace the canonical version.
+
+**Use when:**  
+Adding, revising, or locating CSC documents in GitHub.
+
+**Reason:**  
+This prevents multiple competing drafts from circulating and makes it clear which version should be used as the current reference.
+
+**Status:**  
+Personal founder practice.
+---
 
 ## 4. Decision-Making Practices
 ## 5. Research and Verification Practices
